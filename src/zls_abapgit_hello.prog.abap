@@ -8,4 +8,4 @@
 
 REPORT ZLS_ABAPGIT_HELLO.
 
-Write: 'Hello world'.
+Write: 'Hello world from GIT'.
